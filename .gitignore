@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore folder contents
+Data/Processed data/**
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore folder contents
+Data/Processed data/**
+Output/Corn/**
+Output/Wheat/**
